@@ -1,0 +1,155 @@
+Input Redirected to file
+Display Set: Album
+DataGrid Updated 
+ **20 tracks in library
+--Thread Started--
+ Track added: Postman
+*****ALBUM EXISTS********
+ Track added: Fool
+*****ALBUM EXISTS********
+ Track added: Shame
+*****ALBUM EXISTS********
+ Track added: P.S.
+*****ALBUM EXISTS********
+ Track added: Julen är här igen
+*****ALBUM EXISTS********
+ Track added: Peep
+*****ALBUM EXISTS********
+ Track added: Frog
+*****ALBUM EXISTS********
+ Track added: Funky Jam
+*****ALBUM EXISTS********
+ Track added: Outflow
+*****ALBUM EXISTS********
+ Track added: Myself
+*****ALBUM EXISTS********
+ Track added: Life 705
+*****ALBUM EXISTS********
+ Track added: Small
+ Track added: Every Day
+*****ALBUM EXISTS********
+ Track added: Dirty Moose
+*****ALBUM EXISTS********
+ Track added: Swimming With The Kids
+*****ALBUM EXISTS********
+ Track added: Man In The Street
+*****ALBUM EXISTS********
+ Track added: Tonight Tonight
+*****ALBUM EXISTS********
+ Track added: City Of The Dead
+*****ALBUM EXISTS********
+ Track added: Liquid
+*****ALBUM EXISTS********
+ Track added: Pa-Pa
+*****ALBUM EXISTS********
+ Track added: Vibe
+*****ALBUM EXISTS********
+ Track added: Help Me Sing
+*****ALBUM EXISTS********
+ Track added: Tempo
+*****ALBUM EXISTS********
+ Track added: F-F-F-Falling
+*****ALBUM EXISTS********
+ Track added: Chill
+*****ALBUM EXISTS********
+ Track added: Liquid
+*****ALBUM EXISTS********
+ Track added: Everyday
+*****ALBUM EXISTS********
+ Track added: City of the dead
+*****ALBUM EXISTS********
+ Track added: Help me sing
+*****ALBUM EXISTS********
+ Track added: Playboys
+*****ALBUM EXISTS********
+ Track added: Blue
+*****ALBUM EXISTS********
+ Track added: Ice
+*****ALBUM EXISTS********
+ Track added: Sophia
+*****ALBUM EXISTS********
+ Track added: Wicked moments
+*****ALBUM EXISTS********
+ Track added: Ghostbusters
+*****ALBUM EXISTS********
+ Track added: Funky jam
+*****ALBUM EXISTS********
+ Track added: Myself
+*****ALBUM EXISTS********
+ Track added: PS.
+*****ALBUM EXISTS********
+ Track added: Rakkauslaulu
+*****ALBUM EXISTS********
+ Track added: Life 705
+*****ALBUM EXISTS********
+ Track added: Liquid demo
+*****ALBUM EXISTS********
+ Track added: Madness
+*****ALBUM EXISTS********
+ Track added: Bullet
+*****ALBUM EXISTS********
+ Track added: Chill
+*****ALBUM EXISTS********
+ Track added: F-F-F-Falling
+*****ALBUM EXISTS********
+ Track added: Heartbreaker
+*****ALBUM EXISTS********
+ Track added: Smash
+*****ALBUM EXISTS********
+ Track added: Someone Else
+*****ALBUM EXISTS********
+ Track added: Small Town
+*****ALBUM EXISTS********
+ Track added: One & Only
+*****ALBUM EXISTS********
+ Track added: Last Waltz
+*****ALBUM EXISTS********
+ Track added: Days
+*****ALBUM EXISTS********
+ Track added: Can't Stop Me
+*****ALBUM EXISTS********
+ Track added: Play Dead
+*****ALBUM EXISTS********
+ Track added: Used To Feel Before
+*****ALBUM EXISTS********
+ Track added: First Day Of My Life
+*****ALBUM EXISTS********
+ Track added: In The Shadows
+*****ALBUM EXISTS********
+ Track added: Still Standing
+*****ALBUM EXISTS********
+ Track added: In My Life
+*****ALBUM EXISTS********
+ Track added: Time To Burn
+*****ALBUM EXISTS********
+ Track added: Guilty
+*****ALBUM EXISTS********
+ Track added: Not Like The Other Girls
+*****ALBUM EXISTS********
+ Track added: The One I Love
+*****ALBUM EXISTS********
+ Track added: Back In The Picture
+*****ALBUM EXISTS********
+ Track added: Funeral Song
+*****ALBUM EXISTS********
+ Track added: Shot
+*****ALBUM EXISTS********
+ Track added: Night After Night(Out Of The Shadows)
+*****ALBUM EXISTS********
+ Track added: No Fear
+*****ALBUM EXISTS********
+ Track added: Lucifer's Angel
+*****ALBUM EXISTS********
+ Track added: Last Generation
+*****ALBUM EXISTS********
+ Track added: Dead Promises
+*****ALBUM EXISTS********
+ Track added: Immortal
+*****ALBUM EXISTS********
+ Track added: Sail Away
+*****ALBUM EXISTS********
+ Track added: Keep Your Heart Broken
+*****ALBUM EXISTS********
+ Track added: Heart Of Misery
+1Play State: Transitioning
+3Pl
